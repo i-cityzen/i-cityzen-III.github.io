@@ -1,5 +1,3 @@
-#EXTM3U
-
 #EXTINF:0, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="IKIM FM"  group-title="Singapore/Malaysia Radio",IKIM FM
 http://50.7.96.210:8285/listen.pls
 
